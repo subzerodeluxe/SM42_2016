@@ -6,3 +6,5 @@ In deze repository houd ik wekelijks mijn practica bij voor het vak SMTE4.
 Zie: https://github.com/subzerodeluxe/SM42_2016/tree/master/MyFirstApp 
 
 ## Week 2
+
+Zie https://github.com/subzerodeluxe/SM42_2016/tree/master/CSI_week_1 
