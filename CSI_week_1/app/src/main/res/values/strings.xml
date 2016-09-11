@@ -7,6 +7,9 @@
     <string name="villain_age">74</string>
     <string name="villain_bounty">$1 Million</string>
     <string name="details_string">Details</string>
-    <string name="details">This is one tough bad guy. Beware!</string>
+    <string name="details">This is one tough bad guy. Half Italian, half American: a lethal
+    combination. Wanted for multiple felony\'s.
+        You don\'t want to mess with this guy. Beware!</string>
+    <string name="report">Report</string>
     <string name="title_activity_report">Report Activity</string>
 </resources>
